@@ -8,6 +8,10 @@
 [![AI](https://img.shields.io/badge/AI-Multi--dimensional%20Scoring-8B5CF6?style=flat-square)](.)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
+## 🚀 Live Demo
+- **Frontend App**: [https://storage.googleapis.com/recruiterai-frontend-694414640481/index.html](https://storage.googleapis.com/recruiterai-frontend-694414640481/index.html)
+- **Backend API Docs**: [https://recruiterai-backend-694414640481.us-central1.run.app/docs](https://recruiterai-backend-694414640481.us-central1.run.app/docs)
+
 ---
 
 ## 📸 Screenshots
