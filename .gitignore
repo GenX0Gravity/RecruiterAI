@@ -1,0 +1,73 @@
+# ============================================================
+# RecruitAI — .gitignore
+# ============================================================
+
+# ─── Environment & Secrets ─────────────────────────────────
+.env
+.env.local
+.env.production
+.env.*.local
+*.pem
+*.key
+*.cert
+
+# ─── Python ────────────────────────────────────────────────
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.pyc
+backend/**/*.pyc
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+.venv/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ─── Uploads & Generated Output ───────────────────────────
+backend/temp_uploads/
+backend/output/
+
+# ─── Database ──────────────────────────────────────────────
+# NOTE: recruiter_ats.db in root is kept for Docker volume mount
+# but backend/ db is generated at runtime
+backend/recruiter_ats.db
+*.db-journal
+*.db-shm
+*.db-wal
+
+# ─── Node / Frontend ───────────────────────────────────────
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+node_modules/
+
+# ─── IDEs ──────────────────────────────────────────────────
+.vscode/
+.idea/
+*.suo
+*.user
+*.userprefs
+.DS_Store
+Thumbs.db
+
+# ─── Logs ──────────────────────────────────────────────────
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+
+# ─── Testing & Coverage ────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+*.cover
+
+# ─── Scratch / Temp ────────────────────────────────────────
+scratch/
+*.tmp
+*.bak

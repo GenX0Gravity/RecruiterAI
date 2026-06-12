@@ -1,0 +1,23 @@
+Alice Vance
+Email: alice.vance@example.com
+Phone: 555-123-4567
+Location: San Francisco, CA
+
+Objective:
+Experienced Machine Learning Engineer with a solid background in python programming and AI deployment.
+
+Skills:
+- Machine Learning (ML), Deep Learning, NLP
+- Python programming, JavaScript (JS), ReactJS
+- Kubernetes (K8s), AWS, DevOps, CI/CD
+
+Experience:
+Senior Machine Learning Engineer at TechCorp (2022 - Present)
+- Designed and deployed large-scale deep learning models for classification.
+- Set up CI/CD pipelines and Kubernetes clusters.
+
+Education:
+M.S. in Computer Science - Stanford University (2020)
+
+Certifications:
+AWS Certified Solutions Architect
