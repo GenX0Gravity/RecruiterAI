@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 ## 🚀 Live Demo
-- **Frontend App**: [https://storage.googleapis.com/recruiterai-frontend-694414640481/index.html](https://storage.googleapis.com/recruiterai-frontend-694414640481/index.html)
+- **Frontend App**: [https://recruiterai-frontend-694414640481.storage.googleapis.com/index.html](https://recruiterai-frontend-694414640481.storage.googleapis.com/index.html)
 - **Backend API Docs**: [https://recruiterai-backend-694414640481.us-central1.run.app/docs](https://recruiterai-backend-694414640481.us-central1.run.app/docs)
 
 ---
